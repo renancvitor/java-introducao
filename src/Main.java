@@ -120,7 +120,7 @@ public class Main {
 
         //Próximo exemplo:
 
-        /*Locale.setDefault(Locale.US);
+        Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Quantas linhas vai ter a matriz?  ");
@@ -151,7 +151,7 @@ public class Main {
             System.out.println();
         }
 
-        sc.close();*/
+        sc.close();
 
     }
 }
